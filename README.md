@@ -1,4 +1,4 @@
-# Services, Info, Team Members, or Product Page (cpn260-a2)
+# Services, Info, Team Members, or Product Page (cpnt260-a2)
 
 ---
 
