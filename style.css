@@ -1,0 +1,158 @@
+body {
+    margin: 0 auto;
+    background-color: ghostwhite;
+  }
+  
+  header {
+    box-sizing: border-box;
+    background-color: silver;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  nav a:hover {
+    color: #83ebb7;
+  }
+  
+  .logo {
+    color: black;
+    background: linear-gradient(#dedede, #83ebb7);
+    border-style: solid double solid double;
+    border-color: black;
+    border-radius: 5px;
+    padding: 7px;
+  }
+  
+  .title {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  main section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 20px;
+  }
+  
+  article {
+    background-color: ghostwhite;
+    max-width: 20rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    padding: 80px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 120px;
+  }
+  
+  article a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .card-1 {
+    background-image: url('https://images.unsplash.com/photo-1620584899131-a5ff5f8fbb03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80');
+    background-position: center;
+    background-size: cover;
+    max-width: 50ch;
+    width: 15%;
+  }
+  
+  .card-2 {
+    background-image : url('https://images.unsplash.com/photo-1620387982272-e206ac1be821?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80');
+    background-position: center;
+    background-size: cover;
+    max-width: 50ch;
+    width: 15%
+  }
+  
+  
+  .card-3 {
+    background-image: url('https://images.unsplash.com/photo-1581409767632-6be2fff574a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80');
+    background-position: center;
+    background-size: cover;
+    max-width: 50ch;
+    width: 15%;
+    }  
+    
+  article p {
+    text-align: center;
+  }
+  
+  .btm-img {
+    background-image: url('https://images.unsplash.com/photo-1609184110327-1b146769cbfe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80');
+    background-position: center;
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+    max-width: 75ch;
+    border-style: solid;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    margin: 100px;
+    background-color: white;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  button a {
+    text-decoration: none;
+  }
+  
+  .btn {
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    margin: auto;
+    padding: 20px;
+    flex-wrap: wrap;
+    background-color: ghostwhite;
+    font-size: 20px;
+  }
+  
+  .btn:hover {
+    background: linear-gradient(#dedede, #83ebb7);
+  }
+  
+  strong {
+    color: black;
+  }
+  
+  footer {
+    color: white;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+  }
