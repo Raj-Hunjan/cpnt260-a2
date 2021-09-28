@@ -7,9 +7,9 @@
 - Githup page: https://raj-hunjan.github.io/cpnt260-a2/
 
 ## Code review
-- I had a couple of issues trying to get the lines under the links to disappear.
-- Jaypee (John Paul) told me where to put "text-decoration: none;" code and it worked so he was a big help cause I was trying to figure it our for like 3 hours.
-- Well I learned where to place that code for next time
+- I had a couple of issues trying to get the lines under the links to disappear in codepen
+- Jaypee (John Paul) told me where to put "text-decoration: none;" code and it worked so he was a big help cause I was trying to figure it out for like 3 hours
+- Well I learned where to place "text-decoration" code for next time
 
 ## Icons: 
 - https://icons.getbootstrap.com/
